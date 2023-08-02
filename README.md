@@ -13,7 +13,7 @@ I am passionate about two main areas: web development and cloud-based workspaces
 
 ## Programming Knowledge
 
-I have a solid foundation in Java programming language, which allows me to build robust and object-oriented applications.
+I have a solid foundation in Java programming language as well as javascript and html5, which allows me to build robust and object-oriented applications.
 
 ## GitHub Activity
 
